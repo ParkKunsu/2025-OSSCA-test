@@ -1,6 +1,6 @@
 사용자 정의 함수와 이중 역전파
 =====================================
-**번역** : `박건수 <https://github.com/ParkKunsu>`_
+**번역**: `박건수 <https://github.com/ParkKunsu>`_
 
 
 
